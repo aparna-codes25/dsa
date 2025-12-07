@@ -1,0 +1,2 @@
+Value of x is: 10
+Value of y is: 32
