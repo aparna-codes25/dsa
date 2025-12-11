@@ -1,0 +1,4 @@
+1. outer for loop for number of rows/ lines
+2. inner for loop, focus on number of columns & some how connect to outer loop
+3. Print anything in the pattern inside the for loop
+4. Observe symmetry (optional)

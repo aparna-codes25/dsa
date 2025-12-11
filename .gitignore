@@ -3,4 +3,5 @@
 runfile.bat
 *.exe
 *.class
-*.txt
+input.txt
+output.txt
