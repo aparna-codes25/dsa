@@ -1,6 +1,6 @@
-# 🧠 DSA – Striver's Sheet Progress
+# 🧠 DSA – SDE Sheet solutions and notes
 
-This repository contains my Data Structures & Algorithms practice, mostly based on **Striver's DSA Sheet** and other topic-wise questions.
+This repository contains my Data Structures & Algorithms practice, mostly based on **Striver's DSA Sheetand GFG 160 SDE sheet**
 
 
 ### 🎯 Goal
