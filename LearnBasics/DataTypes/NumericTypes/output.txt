@@ -1,5 +1,0 @@
-Value of x (int) is: 10
-Value of y (long) is: 10000000
-Value of z (long long) is: 1004048746837456
-Value of a (float) is: 10.5
-Value of b (double) is: 20.99

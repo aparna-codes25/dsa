@@ -1,2 +1,0 @@
- Value of c1: a
- Value of c2 (what you entered): s
