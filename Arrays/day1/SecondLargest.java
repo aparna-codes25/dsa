@@ -17,7 +17,7 @@ public class SecondLargest {
                 max2 = arr[i];
             }
         }
-        return (max2 == Integer.MIN_VALUE || max2 == max1) ? -1 : max2;
+        return (max2 == Integer.MIN_VALUE) ? -1 : max2;
     }
 
 }
