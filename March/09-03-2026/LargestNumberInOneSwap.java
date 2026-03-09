@@ -1,7 +1,6 @@
 
 public class LargestNumberInOneSwap {
-    public String largestSwap(String s) {
-        // code here
+    public String largestSwap(String s) {}
         
         // Idea is smallest leftmost digit has a larger place value
         // than the rightmost largest digit.
